@@ -1,0 +1,6 @@
+@MyFatoorahIntegration_HostAddress = http://localhost:5149
+
+GET {{MyFatoorahIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
